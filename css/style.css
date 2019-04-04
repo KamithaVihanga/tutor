@@ -1,16 +1,16 @@
 /*---------- general ----------*/
-body {
-    background: #ff7070;
-    color: #F3FCF0;
-    font-family: sans-serif;
-    /*text-align: center;*/
-}
+/*body {*/
+    /*background: #ff7070;*/
+    /*color: #F3FCF0;*/
+    /*font-family: sans-serif;*/
+    /*!*text-align: center;*!*/
+/*}*/
 
-h1 {
-    font-family: 'Raleway', sans-serif;
-    text-shadow: 2px 2px 0 #bdbdbd;
-    text-transform: uppercase;
-}
+/*h1 {*/
+    /*font-family: 'Raleway', sans-serif;*/
+    /*text-shadow: 2px 2px 0 #bdbdbd;*/
+    /*text-transform: uppercase;*/
+/*}*/
 
 /*---------- star rating ----------*/
 .star-rating, .back-stars, .front-stars {
